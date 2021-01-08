@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physical Art
+title: Forgotten Women Artists
 subtitle: Hannah Ward
 ---
 
