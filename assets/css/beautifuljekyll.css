@@ -89,7 +89,8 @@ a,
 a:hover,
 a:visted,
 a:active {
-  color: #303330
+  color: #303330;
+  text-decoration: none;
 }
 
 
