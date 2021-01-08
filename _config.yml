@@ -14,7 +14,12 @@ author: ""
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About the Project: "aboutme"
+  Commedia: "commedia"
+  Physical Art: "physical_art"
+  Public Health: "public_health"
+  Stage Plays: "stage_plays"
+  Travel Narratives: "travel_narrative"
+  
 
 # --- Logo --- #
 
