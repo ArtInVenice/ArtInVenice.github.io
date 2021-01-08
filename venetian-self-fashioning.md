@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Travel Narratives
+title: Venetian Self-Fashioning
 subtitle: Shea McCollough
 ---
