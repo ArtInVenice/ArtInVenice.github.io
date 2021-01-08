@@ -1,4 +1,5 @@
 ---
 layout: page
-title: Commedia dell'Arte
+title: "Commedia dell'Arte"
+subtitle: Cody VanZandt
 ---
