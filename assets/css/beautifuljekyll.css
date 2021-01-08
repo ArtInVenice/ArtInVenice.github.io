@@ -47,6 +47,10 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 
+p a {
+  font-weight: bold;
+}
+
 
 a {
   color: {{ site.link-col | default: "#008AFF" }};
@@ -72,7 +76,7 @@ a:after {
   width: 0%;
   content: '.'; /* make invisible, dot beneath links */
   color: transparent;
-  background: #006565;
+  background: #303330;
   height: 2px;
 }
 
