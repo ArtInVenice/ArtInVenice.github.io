@@ -22,7 +22,7 @@ body {
   {% endif %}
 }
 
-body a {
+p a {
   text-decoration: underline;
 }
 
