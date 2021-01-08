@@ -55,6 +55,7 @@ p a {
 a {
   color: {{ site.link-col | default: "#008AFF" }};
   font-family: 'Lora', 'Times New Roman', serif;
+  color:inherit;
 }
 
 a,
