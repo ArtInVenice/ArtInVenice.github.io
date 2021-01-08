@@ -85,6 +85,13 @@ a:hover:after {
   width: 80%;
 }
 
+a,
+a:hover,
+a:visted,
+a:active {
+  color: #303330
+}
+
 
 
 blockquote {
